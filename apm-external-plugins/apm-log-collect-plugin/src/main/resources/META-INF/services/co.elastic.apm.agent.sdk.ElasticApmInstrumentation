@@ -1,0 +1,4 @@
+co.elastic.apm.plugin.log.collect.Log4jLogCollectorInstrumentation
+co.elastic.apm.plugin.log.collect.Log4j2LogCollectorInstrumentation
+co.elastic.apm.plugin.log.collect.LogbackLogCollectorInstrumentation
+
